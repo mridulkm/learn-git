@@ -9,5 +9,3 @@ now commit . write "git commit -m "any msg here" "
 now check status "git status". 
 we see at terminal that file is modified 
 
-
-
