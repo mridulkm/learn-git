@@ -1,0 +1,8 @@
+new file made after writing "git init " in terminal
+so its untracked 
+write "git status" on terminal 
+it will show file is untracked 
+so now to add this file write abc.txt
+
+
+
