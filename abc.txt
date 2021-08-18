@@ -12,6 +12,3 @@ we see at terminal that file is modified
 copy from git hub "git branch -M main
 git remote add origin https://github.com/mridulkm/learn-git.git 
 git push -u origin main "
-
-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
-
