@@ -2,7 +2,12 @@ new file made after writing "git init " in terminal
 so its untracked 
 write "git status" on terminal 
 it will show file is untracked 
-so now to add this file write abc.txt
+so now to add this file write "git add abc.txt"
+"git status"
+now file is tracked 
+now commit . write "git commit -m "any msg here" "
+now check status "git status". 
+we see at terminal that file is modified 
 
 
 
