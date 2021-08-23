@@ -1,2 +1,3 @@
 write :  git config --global user.email mkmeekumar203@gmail.com
-write above thing for connecting to the mail used for git too                    
+         git config --global user.name mridulkm
+write above things for connecting to the mail used for git too                    
